@@ -1,30 +1,30 @@
 {
-  "id": "MLA1134191659",
+  "id": "MLA1124450868",
   "site_id": "MLA",
-  "title": "Smart Tv LG Ai Thinq 49un7300pdc Led 4k 49  100v/240v",
+  "title": "Razer Deathadder V2 X Hyperspeed Inalambrico Bluetooth 14k",
   "subtitle": null,
-  "seller_id": 454562413,
-  "category_id": "MLA1002",
-  "official_store_id": 530,
-  "price": 99999,
-  "base_price": 99999,
+  "seller_id": 163267910,
+  "category_id": "MLA1714",
+  "official_store_id": 137,
+  "price": 8889,
+  "base_price": 8889,
   "original_price": null,
   "currency_id": "ARS",
-  "initial_quantity": 19,
+  "initial_quantity": 67,
   "available_quantity": 1,
-  "sold_quantity": 0,
+  "sold_quantity": 5,
   "sale_terms": [
     {
       "id": "WARRANTY_TIME",
       "name": "Tiempo de garant\u00eda",
       "value_id": null,
-      "value_name": "12 meses",
-      "value_struct": { "number": 12, "unit": "meses" },
+      "value_name": "24 meses",
+      "value_struct": { "number": 24, "unit": "meses" },
       "values": [
         {
           "id": null,
-          "name": "12 meses",
-          "struct": { "number": 12, "unit": "meses" }
+          "name": "24 meses",
+          "struct": { "number": 24, "unit": "meses" }
         }
       ]
     },
@@ -44,49 +44,73 @@
     }
   ],
   "buying_mode": "buy_it_now",
-  "listing_type_id": "gold_pro",
-  "start_time": "2022-04-27T20:35:02.000Z",
-  "stop_time": "2042-04-22T04:00:00.000Z",
+  "listing_type_id": "gold_special",
+  "start_time": "2022-02-21T16:56:25.000Z",
+  "stop_time": "2042-02-16T04:00:00.000Z",
   "condition": "new",
-  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1134191659-smart-tv-lg-ai-thinq-49un7300pdc-led-4k-49-100v240v-_JM",
-  "thumbnail_id": "808153-MLA43472405399_092020",
-  "thumbnail": "http://http2.mlstatic.com/D_808153-MLA43472405399_092020-I.jpg",
-  "secure_thumbnail": "https://http2.mlstatic.com/D_808153-MLA43472405399_092020-I.jpg",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1124450868-razer-deathadder-v2-x-hyperspeed-inalambrico-bluetooth-14k-_JM",
+  "thumbnail_id": "737934-MLA49151575772_022022",
+  "thumbnail": "http://http2.mlstatic.com/D_737934-MLA49151575772_022022-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_737934-MLA49151575772_022022-I.jpg",
   "pictures": [
     {
-      "id": "808153-MLA43472405399_092020",
-      "url": "http://http2.mlstatic.com/D_808153-MLA43472405399_092020-O.jpg",
-      "secure_url": "https://http2.mlstatic.com/D_808153-MLA43472405399_092020-O.jpg",
-      "size": "500x332",
-      "max_size": "1275x848",
+      "id": "737934-MLA49151575772_022022",
+      "url": "http://http2.mlstatic.com/D_737934-MLA49151575772_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_737934-MLA49151575772_022022-O.jpg",
+      "size": "286x500",
+      "max_size": "688x1200",
       "quality": ""
     },
     {
-      "id": "718956-MLA43472245950_092020",
-      "url": "http://http2.mlstatic.com/D_718956-MLA43472245950_092020-O.jpg",
-      "secure_url": "https://http2.mlstatic.com/D_718956-MLA43472245950_092020-O.jpg",
-      "size": "500x436",
-      "max_size": "1029x898",
+      "id": "687275-MLA49151573762_022022",
+      "url": "http://http2.mlstatic.com/D_687275-MLA49151573762_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_687275-MLA49151573762_022022-O.jpg",
+      "size": "500x500",
+      "max_size": "1000x1000",
       "quality": ""
     },
     {
-      "id": "988646-MLA43472405368_092020",
-      "url": "http://http2.mlstatic.com/D_988646-MLA43472405368_092020-O.jpg",
-      "secure_url": "https://http2.mlstatic.com/D_988646-MLA43472405368_092020-O.jpg",
-      "size": "242x500",
-      "max_size": "933x1920",
+      "id": "736743-MLA49151561879_022022",
+      "url": "http://http2.mlstatic.com/D_736743-MLA49151561879_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_736743-MLA49151561879_022022-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
       "quality": ""
     },
     {
-      "id": "911701-MLA43472245890_092020",
-      "url": "http://http2.mlstatic.com/D_911701-MLA43472245890_092020-O.jpg",
-      "secure_url": "https://http2.mlstatic.com/D_911701-MLA43472245890_092020-O.jpg",
-      "size": "500x236",
-      "max_size": "1920x907",
+      "id": "781162-MLA49151583688_022022",
+      "url": "http://http2.mlstatic.com/D_781162-MLA49151583688_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_781162-MLA49151583688_022022-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "920857-MLA49151562850_022022",
+      "url": "http://http2.mlstatic.com/D_920857-MLA49151562850_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_920857-MLA49151562850_022022-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "901127-MLA49151633311_022022",
+      "url": "http://http2.mlstatic.com/D_901127-MLA49151633311_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_901127-MLA49151633311_022022-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "798349-MLA49151633312_022022",
+      "url": "http://http2.mlstatic.com/D_798349-MLA49151633312_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_798349-MLA49151633312_022022-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
       "quality": ""
     }
   ],
-  "video_id": null,
+  "video_id": "XL27IC5-m6A",
   "descriptions": [],
   "accepts_mercadopago": true,
   "non_mercado_pago_payment_methods": [],
@@ -103,24 +127,24 @@
         }
       }
     ],
-    "tags": ["mandatory_free_shipping"],
+    "tags": ["self_service_in", "mandatory_free_shipping"],
     "dimensions": null,
-    "local_pick_up": false,
+    "local_pick_up": true,
     "free_shipping": true,
     "logistic_type": "cross_docking",
     "store_pick_up": false
   },
   "international_delivery_mode": "none",
   "seller_address": {
-    "city": { "name": "Pi\u00f1eyro" },
-    "state": { "id": "AR-B", "name": "Buenos Aires" },
+    "city": { "id": "TUxBQlBBTDI1MTVa", "name": "Palermo" },
+    "state": { "id": "AR-C", "name": "Capital Federal" },
     "country": { "id": "AR", "name": "Argentina" },
     "search_location": {
-      "neighborhood": { "id": "TUxBQlBJ0Tg1NDla", "name": "Pi\u00f1eyro" },
-      "city": { "id": "TUxBQ0FWRTc5OTQ1", "name": "Avellaneda" },
-      "state": { "id": "TUxBUEdSQXJlMDNm", "name": "Bs.As. G.B.A. Sur" }
+      "neighborhood": { "id": "TUxBQlBBTDI1MTVa", "name": "Palermo" },
+      "city": { "id": "TUxBQ0NBUGZlZG1sYQ", "name": "Capital Federal" },
+      "state": { "id": "TUxBUENBUGw3M2E1", "name": "Capital Federal" }
     },
-    "id": 1056210187
+    "id": 148071912
   },
   "seller_contact": null,
   "location": {},
@@ -129,169 +153,92 @@
     {
       "id": "BRAND",
       "name": "Marca",
-      "value_id": "215",
-      "value_name": "LG",
+      "value_id": "17587",
+      "value_name": "Razer",
       "value_struct": null,
-      "values": [{ "id": "215", "name": "LG", "struct": null }],
-      "attribute_group_id": "MAIN",
-      "attribute_group_name": "Principales"
-    },
-    {
-      "id": "MODEL",
-      "name": "Modelo",
-      "value_id": "8941520",
-      "value_name": "49UN7300",
-      "value_struct": null,
-      "values": [{ "id": "8941520", "name": "49UN7300", "struct": null }],
-      "attribute_group_id": "MAIN",
-      "attribute_group_name": "Principales"
-    },
-    {
-      "id": "ACCESSORIES_INCLUDED",
-      "name": "Accesorios incluidos",
-      "value_id": null,
-      "value_name": "Control remoto,Cable de alimentaci\u00f3n",
-      "value_struct": null,
-      "values": [
-        { "id": "2296420", "name": "Control remoto", "struct": null },
-        {
-          "id": "7609642",
-          "name": "Cable de alimentaci\u00f3n",
-          "struct": null
-        }
-      ],
+      "values": [{ "id": "17587", "name": "Razer", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "ALPHANUMERIC_MODEL",
-      "name": "Modelo alfanum\u00e9rico",
-      "value_id": "8941519",
-      "value_name": "49UN7300PDC",
+      "id": "COMPATIBLE_OPERATING_SYSTEMS",
+      "name": "Sistemas operativos compatibles",
+      "value_id": "2307699",
+      "value_name": "Windows",
       "value_struct": null,
-      "values": [{ "id": "8941519", "name": "49UN7300PDC", "struct": null }],
+      "values": [{ "id": "2307699", "name": "Windows", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "ASPECT_RATIO",
-      "name": "Relaci\u00f3n de aspecto",
-      "value_id": "493284",
-      "value_name": "16:9",
+      "id": "COMPUTER_MOUSE_TYPE",
+      "name": "Tipo de mouse",
+      "value_id": "7852105",
+      "value_name": "De juego",
       "value_struct": null,
-      "values": [{ "id": "493284", "name": "16:9", "struct": null }],
+      "values": [{ "id": "7852105", "name": "De juego", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "DEPTH",
-      "name": "Profundidad",
-      "value_id": "8475498",
-      "value_name": "8.11 cm",
-      "value_struct": { "number": 8.11, "unit": "cm" },
-      "values": [
-        {
-          "id": "8475498",
-          "name": "8.11 cm",
-          "struct": { "number": 8.11, "unit": "cm" }
-        }
-      ],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "DISPLAY_SIZE",
-      "name": "Tama\u00f1o de la pantalla",
-      "value_id": "2596772",
-      "value_name": "49 \"",
-      "value_struct": { "number": 49, "unit": "\"" },
-      "values": [
-        {
-          "id": "2596772",
-          "name": "49 \"",
-          "struct": { "number": 49, "unit": "\"" }
-        }
-      ],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "DISPLAY_TYPE",
-      "name": "Tipo de pantalla",
-      "value_id": "81830",
-      "value_name": "LED",
+      "id": "HAND_ORIENTATION",
+      "name": "Orientaci\u00f3n de la mano",
+      "value_id": "96533",
+      "value_name": "Diestro",
       "value_struct": null,
-      "values": [{ "id": "81830", "name": "LED", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "GTIN",
-      "name": "C\u00f3digo universal de producto",
-      "value_id": null,
-      "value_name": "08806098656950",
-      "value_struct": null,
-      "values": [{ "id": null, "name": "08806098656950", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "HDMI_PORTS_NUMBER",
-      "name": "Cantidad de puertos HDMI",
-      "value_id": "517241",
-      "value_name": "3",
-      "value_struct": null,
-      "values": [{ "id": "517241", "name": "3", "struct": null }],
+      "values": [{ "id": "96533", "name": "Diestro", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
       "id": "HEIGHT",
       "name": "Altura",
-      "value_id": "7585033",
-      "value_name": "70.9 cm",
-      "value_struct": { "number": 70.9, "unit": "cm" },
+      "value_id": "8064545",
+      "value_name": "42.7 mm",
+      "value_struct": { "number": 42.7, "unit": "mm" },
       "values": [
         {
-          "id": "7585033",
-          "name": "70.9 cm",
-          "struct": { "number": 70.9, "unit": "cm" }
+          "id": "8064545",
+          "name": "42.7 mm",
+          "struct": { "number": 42.7, "unit": "mm" }
         }
       ],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "INTEGRATED_APPS",
-      "name": "Apps integradas",
-      "value_id": null,
-      "value_name": "Web browser,Netflix,YouTube,Prime Video,Apple TV,Hulu,Disney+",
+      "id": "INTERFACES",
+      "name": "Interfaces",
+      "value_id": "99997",
+      "value_name": "USB",
       "value_struct": null,
-      "values": [
-        { "id": null, "name": "Web browser", "struct": null },
-        { "id": "9209441", "name": "Netflix", "struct": null },
-        { "id": "9638348", "name": "YouTube", "struct": null },
-        { "id": null, "name": "Prime Video", "struct": null },
-        { "id": null, "name": "Apple TV", "struct": null },
-        { "id": "9209443", "name": "Hulu", "struct": null },
-        { "id": null, "name": "Disney+", "struct": null }
-      ],
+      "values": [{ "id": "99997", "name": "USB", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "INTEGRATED_VIRTUAL_ASSISTANTS",
-      "name": "Asistentes virtuales integrados",
-      "value_id": "9028289",
-      "value_name": "ThinQ AI",
+      "id": "IS_ERGONOMIC",
+      "name": "Es ergon\u00f3mica",
+      "value_id": "242085",
+      "value_name": "S\u00ed",
       "value_struct": null,
-      "values": [{ "id": "9028289", "name": "ThinQ AI", "struct": null }],
+      "values": [{ "id": "242085", "name": "S\u00ed", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "IS_SMART",
-      "name": "Es smart",
+      "id": "IS_WIRELESS",
+      "name": "Es inal\u00e1mbrico",
+      "value_id": "242085",
+      "value_name": "S\u00ed",
+      "value_struct": null,
+      "values": [{ "id": "242085", "name": "S\u00ed", "struct": null }],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "IS_WIRELESS_USB",
+      "name": "Es inal\u00e1mbrico USB",
       "value_id": "242085",
       "value_name": "S\u00ed",
       "value_struct": null,
@@ -310,134 +257,148 @@
       "attribute_group_name": "Otros"
     },
     {
-      "id": "LINE",
-      "name": "L\u00ednea",
-      "value_id": "7101090",
-      "value_name": "AI ThinQ",
-      "value_struct": null,
-      "values": [{ "id": "7101090", "name": "AI ThinQ", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "MAX_RESOLUTION",
-      "name": "Resoluci\u00f3n m\u00e1xima",
-      "value_id": "7165730",
-      "value_name": "3840 px - 2160 px",
-      "value_struct": null,
-      "values": [
-        { "id": "7165730", "name": "3840 px - 2160 px", "struct": null }
-      ],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "MAX_SPEAKERS_POWER",
-      "name": "Potencia m\u00e1xima de los parlantes",
-      "value_id": "999591",
-      "value_name": "20 W",
-      "value_struct": { "number": 20, "unit": "W" },
+      "id": "LENGTH",
+      "name": "Largo",
+      "value_id": "8265396",
+      "value_name": "127 mm",
+      "value_struct": { "number": 127, "unit": "mm" },
       "values": [
         {
-          "id": "999591",
-          "name": "20 W",
-          "struct": { "number": 20, "unit": "W" }
+          "id": "8265396",
+          "name": "127 mm",
+          "struct": { "number": 127, "unit": "mm" }
         }
       ],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "OPERATIVE_SYSTEM",
-      "name": "Sistema operativo",
-      "value_id": "8479807",
-      "value_name": "webOS",
+      "id": "LINE",
+      "name": "L\u00ednea",
+      "value_id": "126368",
+      "value_name": "DeathAdder",
       "value_struct": null,
-      "values": [{ "id": "8479807", "name": "webOS", "struct": null }],
+      "values": [{ "id": "126368", "name": "DeathAdder", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "PROCESSOR_CORES_NUMBER",
-      "name": "Cantidad de n\u00facleos del procesador",
-      "value_id": "7206949",
-      "value_name": "4",
-      "value_struct": null,
-      "values": [{ "id": "7206949", "name": "4", "struct": null }],
+      "id": "MAX_REACH",
+      "name": "Alcance m\u00e1ximo",
+      "value_id": "7499474",
+      "value_name": "2.1 m",
+      "value_struct": { "number": 2.1, "unit": "m" },
+      "values": [
+        {
+          "id": "7499474",
+          "name": "2.1 m",
+          "struct": { "number": 2.1, "unit": "m" }
+        }
+      ],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "RESOLUTION_TYPE",
-      "name": "Tipo de resoluci\u00f3n",
-      "value_id": "2685890",
-      "value_name": "4K",
-      "value_struct": null,
-      "values": [{ "id": "2685890", "name": "4K", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "SELLER_SKU",
-      "name": "SKU",
+      "id": "MAX_SPEED",
+      "name": "Velocidad m\u00e1xima",
       "value_id": null,
-      "value_name": "9149UN7310PI",
-      "value_struct": null,
-      "values": [{ "id": null, "name": "9149UN7310PI", "struct": null }],
+      "value_name": "300 ips",
+      "value_struct": { "number": 300, "unit": "ips" },
+      "values": [
+        {
+          "id": null,
+          "name": "300 ips",
+          "struct": { "number": 300, "unit": "ips" }
+        }
+      ],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "SOUND_MODES",
-      "name": "Modos de sonido",
-      "value_id": "7673600",
-      "value_name": "Ultra Surround",
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "DeathAdder V2 X Hyperspeed",
       "value_struct": null,
-      "values": [{ "id": "7673600", "name": "Ultra Surround", "struct": null }],
+      "values": [
+        { "id": null, "name": "DeathAdder V2 X Hyperspeed", "struct": null }
+      ],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "SPEAKERS_NUMBER",
-      "name": "Cantidad de parlantes",
-      "value_id": "999572",
-      "value_name": "2",
+      "id": "NUMBER_OF_BUTTONS",
+      "name": "Cantidad de botones",
+      "value_id": null,
+      "value_name": "7",
       "value_struct": null,
-      "values": [{ "id": "999572", "name": "2", "struct": null }],
+      "values": [{ "id": null, "name": "7", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "USB_PORTS_NUMBER",
-      "name": "Cantidad de puertos USB",
-      "value_id": "517257",
-      "value_name": "2",
-      "value_struct": null,
-      "values": [{ "id": "517257", "name": "2", "struct": null }],
+      "id": "SENSOR_RESOLUTION",
+      "name": "Resoluci\u00f3n del sensor",
+      "value_id": null,
+      "value_name": "14000 dpi",
+      "value_struct": { "number": 14000, "unit": "dpi" },
+      "values": [
+        {
+          "id": null,
+          "name": "14000 dpi",
+          "struct": { "number": 14000, "unit": "dpi" }
+        }
+      ],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
-      "id": "VOLTAGE",
-      "name": "Voltaje",
-      "value_id": "509647",
-      "value_name": "100V/240V",
+      "id": "SENSOR_TECHNOLOGY",
+      "name": "Tecnolog\u00eda del sensor",
+      "value_id": "10223884",
+      "value_name": "5G",
       "value_struct": null,
-      "values": [{ "id": "509647", "name": "100V/240V", "struct": null }],
+      "values": [{ "id": "10223884", "name": "5G", "struct": null }],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SENSOR_TYPE",
+      "name": "Tipo de sensor",
+      "value_id": "109003",
+      "value_name": "\u00d3ptico",
+      "value_struct": null,
+      "values": [{ "id": "109003", "name": "\u00d3ptico", "struct": null }],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": "9332259",
+      "value_name": "82 g",
+      "value_struct": { "number": 82, "unit": "g" },
+      "values": [
+        {
+          "id": "9332259",
+          "name": "82 g",
+          "struct": { "number": 82, "unit": "g" }
+        }
+      ],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     },
     {
       "id": "WIDTH",
       "name": "Ancho",
-      "value_id": "3471023",
-      "value_name": "111 cm",
-      "value_struct": { "number": 111, "unit": "cm" },
+      "value_id": "10223938",
+      "value_name": "61.7 mm",
+      "value_struct": { "number": 61.7, "unit": "mm" },
       "values": [
         {
-          "id": "3471023",
-          "name": "111 cm",
-          "struct": { "number": 111, "unit": "cm" }
+          "id": "10223938",
+          "name": "61.7 mm",
+          "struct": { "number": 61.7, "unit": "mm" }
         }
       ],
       "attribute_group_id": "OTHERS",
@@ -454,8 +415,18 @@
       "attribute_group_name": "Otros"
     },
     {
-      "id": "WITH_ETHERNET",
-      "name": "Con ethernet",
+      "id": "WITH_LIGHTS",
+      "name": "Con luces",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [{ "id": "242084", "name": "No", "struct": null }],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_SCROLL",
+      "name": "Con rueda de desplazamiento",
       "value_id": "242085",
       "value_name": "S\u00ed",
       "value_struct": null,
@@ -464,59 +435,47 @@
       "attribute_group_name": "Otros"
     },
     {
-      "id": "WITH_HDMI",
-      "name": "Con HDMI",
-      "value_id": "242085",
-      "value_name": "S\u00ed",
+      "id": "WITH_WIRE",
+      "name": "Con cable",
+      "value_id": "242084",
+      "value_name": "No",
       "value_struct": null,
-      "values": [{ "id": "242085", "name": "S\u00ed", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "WITH_HDR",
-      "name": "Con HDR",
-      "value_id": "242085",
-      "value_name": "S\u00ed",
-      "value_struct": null,
-      "values": [{ "id": "242085", "name": "S\u00ed", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "WITH_INTEGRATED_VOICE_COMMAND",
-      "name": "Con comando de voz integrado",
-      "value_id": "242085",
-      "value_name": "S\u00ed",
-      "value_struct": null,
-      "values": [{ "id": "242085", "name": "S\u00ed", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "WITH_USB",
-      "name": "Con USB",
-      "value_id": "242085",
-      "value_name": "S\u00ed",
-      "value_struct": null,
-      "values": [{ "id": "242085", "name": "S\u00ed", "struct": null }],
-      "attribute_group_id": "OTHERS",
-      "attribute_group_name": "Otros"
-    },
-    {
-      "id": "WITH_WI_FI",
-      "name": "Con Wi-Fi",
-      "value_id": "242085",
-      "value_name": "S\u00ed",
-      "value_struct": null,
-      "values": [{ "id": "242085", "name": "S\u00ed", "struct": null }],
+      "values": [{ "id": "242084", "name": "No", "struct": null }],
       "attribute_group_id": "OTHERS",
       "attribute_group_name": "Otros"
     }
   ],
   "warnings": [],
   "listing_source": "",
-  "variations": [],
+  "variations": [
+    {
+      "id": 174225487504,
+      "price": 8889.0,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "52049",
+          "value_name": "Negro",
+          "value_struct": null,
+          "values": [{ "id": "52049", "name": "Negro", "struct": null }]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 5,
+      "sale_terms": [],
+      "picture_ids": [
+        "737934-MLA49151575772_022022",
+        "687275-MLA49151573762_022022",
+        "736743-MLA49151561879_022022",
+        "781162-MLA49151583688_022022",
+        "920857-MLA49151562850_022022",
+        "901127-MLA49151633311_022022",
+        "798349-MLA49151633312_022022"
+      ],
+      "catalog_product_id": null
+    }
+  ],
   "status": "active",
   "sub_status": [],
   "tags": [
@@ -526,16 +485,16 @@
     "immediate_payment",
     "cart_eligible"
   ],
-  "warranty": "Garant\u00eda de f\u00e1brica: 12 meses",
-  "catalog_product_id": "MLA16062004",
-  "domain_id": "MLA-TELEVISIONS",
+  "warranty": "Garant\u00eda de f\u00e1brica: 24 meses",
+  "catalog_product_id": null,
+  "domain_id": "MLA-COMPUTER_MICE",
   "parent_item_id": null,
   "differential_pricing": null,
   "deal_ids": [],
   "automatic_relist": false,
-  "date_created": "2022-04-27T20:35:02.000Z",
-  "last_updated": "2022-05-06T11:12:50.150Z",
-  "health": null,
-  "catalog_listing": true,
-  "channels": ["marketplace"]
+  "date_created": "2022-02-21T16:56:25.000Z",
+  "last_updated": "2022-05-09T15:00:02.730Z",
+  "health": 0.9,
+  "catalog_listing": false,
+  "channels": ["marketplace", "mshops"]
 }
